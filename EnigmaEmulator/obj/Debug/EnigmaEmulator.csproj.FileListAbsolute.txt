@@ -1,0 +1,10 @@
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\bin\Debug\EnigmaEmulator.exe.config
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\bin\Debug\EnigmaEmulator.exe
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\bin\Debug\EnigmaEmulator.pdb
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.Form1.resources
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.Properties.Resources.resources
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.csproj.GenerateResource.Cache
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.csproj.CoreCompileInputs.cache
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.exe
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.pdb
+C:\Users\arifr\source\repos\EnigmaEmulator\EnigmaEmulator\obj\Debug\EnigmaEmulator.csprojResolveAssemblyReference.cache
